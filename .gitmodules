@@ -1,0 +1,31 @@
+[submodule "gnupg"]
+	path = crypto/gnupg
+	url = git://git.gnupg.org/gnupg.git
+[submodule "libassuan"]
+	path = crypto/libassuan
+	url = git://git.gnupg.org/libassuan.git
+[submodule "libgcrypt"]
+	path = crypto/libgcrypt
+	url = git://git.gnupg.org/libgcrypt.git
+[submodule "libgpg-error"]
+	path = crypto/libgpg-error
+	url = git://git.gnupg.org/libgpg-error.git
+[submodule "libksba"]
+	path = crypto/libksba
+	url = git://git.gnupg.org/libksba.git
+[submodule "openldap"]
+	path = crypto/openldap
+	url = git://git.openldap.org/openldap.git
+[submodule "curl"]
+	path = crypto/curl
+	url = https://github.com/bagder/curl
+[submodule "npth"]
+	path = crypto/npth
+	url = git://git.gnupg.org/npth.git
+[submodule "gpgme"]
+	path = crypto/gpgme
+	url = git://git.gnupg.org/gpgme.git
+[submodule "pinentry"]
+	path = crypto/pinentry
+	url = https://github.com/guardianproject/pinentry
+	ignore = dirty
